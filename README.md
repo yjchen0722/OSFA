@@ -17,10 +17,12 @@ This repository contains the experimental materials and analysis code for a cros
 ## Repo Structure
 
 ```
-├── bot_prompts.py          # System prompts for supportive and challenging chatbot conditions
-├── task_prompts.py         # Three-stage tourism planning task prompts (Taiwan Mandarin & Korean)
-├── questionnaire_config.py # Pre- and post-interaction survey items (People-Pleasing Scale, Perceived Threat, Satisfaction, Trust, Continuance Intention, and Open-ended questions)
-└── statistics.ipynb        # Statistical analysis: OLS regression, interaction effects
+├── materials/
+│   ├── bot_prompts.py          # System prompts for supportive and challenging chatbot conditions
+│   ├── task_prompts.py         # Three-stage tourism planning task prompts (Taiwan Mandarin & Korean)
+│   ├── questionnaire_config.py # Pre- and post-interaction survey items (People-Pleasing Scale, Perceived Threat, Satisfaction, Trust, Continuance Intention, and Open-ended questions)
+│   └── statistics.ipynb        # Statistical analysis: OLS regression, interaction effects
+└── README.md
 ```
 
 ---
