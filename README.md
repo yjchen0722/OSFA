@@ -6,7 +6,9 @@
 > I-Tsen Hsieh, Independent Researcher
 > Li-Wun Chang, Independent Researcher
 
-**Paper** · [Project Website](https://osfa2026.netlify.app)
+[![Website](https://img.shields.io/badge/Introduction-Website-blue)](https://osfa2026.netlify.app)
+[![GitHub](https://img.shields.io/badge/Repository-GitHub-black)](https://github.com/yjchen0722/OSFA)
+[![Paper](https://img.shields.io/badge/Paper-C3NLP%202026-red)]()
 
 ---
 
@@ -45,7 +47,7 @@ Participant data is not included in this repository to protect participant priva
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This work is licensed under a [![License](https://img.shields.io/badge/License-CC%20BY%204.0-E8A33D)](https://creativecommons.org/licenses/by/4.0/).
 
 You are free to share and adapt the materials for any purpose, provided appropriate credit is given to the original authors.
 
