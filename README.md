@@ -2,13 +2,9 @@
 
 **ACL 2026 · C3NLP Workshop**
 
-> Yi-Jun Chen, Yonsei University
-> I-Tsen Hsieh, Independent Researcher
-> Li-Wun Chang, Independent Researcher
-
 [![Website](https://img.shields.io/badge/Introduction-Website-blue)](https://osfa2026.netlify.app)
 [![GitHub](https://img.shields.io/badge/Repository-GitHub-black)](https://github.com/yjchen0722/OSFA)
-[![Paper](https://img.shields.io/badge/Paper-C3NLP%202026-red)]()
+[![Paper](https://img.shields.io/badge/Paper-C3NLP%202026-red)](https://c3nlp.github.io/#accept_papers)
 
 ---
 
