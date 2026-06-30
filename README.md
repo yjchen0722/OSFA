@@ -47,9 +47,9 @@ Participant data is not included in this repository to protect participant priva
 
 ## License
 
-This work is licensed under a [![License](https://img.shields.io/badge/License-CC%20BY%204.0-E8A33D)](https://creativecommons.org/licenses/by/4.0/).
+[![License](https://img.shields.io/badge/License-CC%20BY%204.0-E8A33D)](https://creativecommons.org/licenses/by/4.0/)
 
-You are free to share and adapt the materials for any purpose, provided appropriate credit is given to the original authors.
+This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt the materials for any purpose, provided appropriate credit is given to the original authors.
 
 
 ## Citation
