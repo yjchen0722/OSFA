@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Introduction-Website-blue)](https://osfa2026.netlify.app)
 [![GitHub](https://img.shields.io/badge/Repository-GitHub-black)](https://github.com/yjchen0722/OSFA)
-[![Paper](https://img.shields.io/badge/Paper-C3NLP%202026-red)](https://c3nlp.github.io/#accept_papers)
+[![Paper](https://img.shields.io/badge/Paper-C3NLP%202026-red)](https://aclanthology.org/2026.c3nlp-1.15/)
 
 ---
 
@@ -55,10 +55,11 @@ This work is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/
 If you use our materials in your work, please cite the following:
 
 ```bibtex
-@inproceedings{chen2026osfa,
-  title     = {One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens},
-  author    = {Chen, Yi-Jun and Hsieh, I-Tsen and Chang, Li-Wun},
-  booktitle = {Proceedings of the 4th Workshop on Cross-Cultural Considerations in NLP (C3NLP 2026)},
-  year      = {2026}
+@inproceedings{chen2026one,
+  title={One Style Fits All? Cultural Values Embedded in Conversational AI via a People-Pleasing Lens},
+  author={Chen, Yi-Jun and Hsieh, I-Tsen and Chang, Li-Wun},
+  booktitle={Proceedings of the 4th Workshop on Cross-Cultural Considerations in NLP (C3NLP 2026)},
+  pages={187--203},
+  year={2026}
 }
 ```
